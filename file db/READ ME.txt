@@ -1,0 +1,2 @@
+1. Buat database bernama payment di phpmyadmin.
+2. Import payment.sql pada databse tersebut.
